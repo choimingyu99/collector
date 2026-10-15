@@ -1,0 +1,9 @@
+# 화면 캡처 증거 — 숫자의 정본은 라운드 파일의 건수표이고, 캡처는 저장소에 넣지 않는다
+evidence/
+
+# Office 임시 파일
+~$*
+
+# 개인 설정·메모
+.claude/settings.local.json
+_local/
